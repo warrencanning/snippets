@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Devland Catalogue"
+AuthUserFile "/home/megavisi/.htpasswds/public_html/devland/backend/passwd"
+require valid-user
